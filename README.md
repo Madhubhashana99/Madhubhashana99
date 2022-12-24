@@ -21,6 +21,6 @@
 <a href="https://www.youtube.com/@feedhub3164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="feed hub" height="30" width="40" /></a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Madhubhashana99&show_icons=true&bg_color=00000000"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhubhashana99&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Madhubhashana99&show_icons=true&bg_color=00000000"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhubhashana99&layout=compact"/>
 
