@@ -1,6 +1,8 @@
-### Hi, 👋 I'm Madhubhashana
-
-
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Make+it+Work+;Make+it+right+;Make+it+fast&center=true&width=500&height=50"></a>
+</p>
+<hr>
+### Hi, 👋 I'm Madhubhashana<br><br>
 
 - 🔭 I’m an undergraduate of the <b>Faculty of Technology University of Ruhuna Sri Lanka</b>...
 - 👀 I’m interested in <b>App & Web Development</b>...
