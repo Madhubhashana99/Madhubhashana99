@@ -3,7 +3,8 @@
 </p>
 
 <hr>
-### Hi, 👋 I'm Madhubhashana<br><br>
+<h2 align="left" id="macropower-title"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>Hi, 👋 I'm Madhubhashana</h2>
+<br>
 
 - 🔭 I’m an undergraduate of the <b>Faculty of Technology University of Ruhuna Sri Lanka</b>...
 - 👀 I’m interested in <b>App & Web Development</b>...
