@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Make+it+Work+;Make+it+right+;Make+it+fast&center=true&width=500&height=50"></a>
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Make+it+Work+;Make+it+right+;Make+it+fast&center=true&width=500&height=50"></a>
 </p>
+
 <hr>
 ### Hi, 👋 I'm Madhubhashana<br><br>
 
@@ -10,6 +11,9 @@
 - 📫 How to reach me: <b>dinushamadhubhashana1999@gmail.com</b>...
 - ⚡ Fun fact: <b>I'm a funny Developer</b>...
 
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Coding+is+the+modern-day+equivalent+of+magic&center=true&width=500&height=50"></a>
+</p>
 
 <!--<h3 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours)</h3>-->
 
