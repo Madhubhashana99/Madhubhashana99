@@ -1,3 +1,12 @@
+<p align="right">
+  <a href="https://github.com/Madhubhashana99">
+    <img src="https://komarev.com/ghpvc/?username=Madhubhashana99&style=flat-square&color=040404" alt="GitHub visitors" />
+  </a>
+  <a href="https://github.com/Madhubhashana99?tab=followers">
+    <img src="https://img.shields.io/github/followers/Madhubhashana99?style=flat-square&color=040404&logo=github" alt="GitHub followers" />
+  </a>
+</p>
+
 <hr>
 <p align="center">
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Make+it+Work+;Make+it+right+;Make+it+fast&center=true&width=500&height=50"></a>
@@ -30,6 +39,11 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Coding+is+the+modern-day+equivalent+of+magic&center=true&width=500&height=50"></a>
 </p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Madhubhashana99&show_icons=true&bg_color=00000000"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhubhashana99&layout=compact"/>
+<br>
+<a href="#Madhubhashana99-title">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Madhubhashana99&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="Madhubhashana99" align="left" />
+</a>
 
+<a href="#Madhubhashana99-title">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhubhashana99&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="Madhubhashana99" align="right" />
+</a>
