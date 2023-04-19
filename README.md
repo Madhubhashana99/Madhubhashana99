@@ -27,7 +27,7 @@
 - 📫 How to reach me: <b>dinushamadhubhashana1999@gmail.com</b>...
 - ⚡ Fun fact: <b>I'm a funny Developer</b>...
 
-
+![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 <!--<h3 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours)</h3>-->
 
 <h2 align="left">Languages and Tools:</h2>
