@@ -30,6 +30,13 @@
 
 <!--<h3 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours)</h3>-->
 
+<h2 align="left">Languages and Tools:</h2>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,bootstrap,sqlite,py,docker,netlify,git,gitlab,stackoverflow,nginx,jenkins&perline=12" /></a>
+  </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/madhubhashana-mahindarathne-389061230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhubhashana mahindarathne" height="30" width="40" /></a>
