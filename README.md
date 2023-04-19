@@ -1,7 +1,12 @@
+<p align="center"> 
+  <b>Visitor Count</b><br>
+  <img src="https://profile-counter.glitch.me/Madhubhashana99/count.svg" />
+</p>
+
 <p align="right">
-  <a href="https://github.com/Madhubhashana99">
+ <!-- <a href="https://github.com/Madhubhashana99">
     <img src="https://komarev.com/ghpvc/?username=Madhubhashana99&style=flat-square&color=040404" alt="GitHub visitors" />
-  </a>
+  </a>-->
   <a href="https://github.com/Madhubhashana99?tab=followers">
     <img src="https://img.shields.io/github/followers/Madhubhashana99?style=flat-square&color=040404&logo=github" alt="GitHub followers" />
   </a>
@@ -21,7 +26,6 @@
 - 🌱 I’m currently learning <b>Java, Spring Boot, Python, Flutter</b>...
 - 📫 How to reach me: <b>dinushamadhubhashana1999@gmail.com</b>...
 - ⚡ Fun fact: <b>I'm a funny Developer</b>...
-
 
 
 <!--<h3 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours)</h3>-->
