@@ -22,11 +22,11 @@
 <h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>Hi, 👋 I'm Madhubhashana</h1>
 <br>
 
-- 🔭 I’m an undergraduate of the <b>Faculty of Technology University of Ruhuna Sri Lanka</b>...
-- 👀 I’m interested in <b>App & Web Development</b>...
-- 🌱 I’m currently learning <b>Java, Spring Boot, Python, Flutter...</b>...
-- 📫 How to reach me: <b>dinushamadhubhashana1999@gmail.com</b>...
-- ⚡ Fun fact: <b>I'm a funny Developer</b>...
+- 🔭 I’m an undergraduate of the <b>Faculty of Technology University of Ruhuna Sri Lanka</b>
+- 👀 I’m interested in <b>App & Web Development</b>
+- 🌱 I’m currently learning <b>Java, Spring Boot, Python, Flutter</b>
+- 📫 How to reach me: <b>dinushamadhubhashana1999@gmail.com</b>
+- ⚡ Fun fact: <b>I'm a funny Developer</b>
 
 <h2>Naughty Snake 🐍</h2>
 
