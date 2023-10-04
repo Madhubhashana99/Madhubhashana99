@@ -6,7 +6,6 @@
   <img src="https://profile-counter.glitch.me/Madhubhashana99/count.svg" />
 </p>
 
-[![An image of @madhubhashana99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhubhashana99)](https://holopin.io/@madhubhashana99)
 <p align="right">
  <!-- <a href="https://github.com/Madhubhashana99">
     <img src="https://komarev.com/ghpvc/?username=Madhubhashana99&style=flat-square&color=040404" alt="GitHub visitors" />
@@ -46,6 +45,8 @@
 <a href="https://dribbble.com/madubhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="madhubhashana mahindarathne" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@feedhub3164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="feed hub" height="30" width="40" /></a>
 </p>
+
+[![An image of @madhubhashana99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhubhashana99)](https://holopin.io/@madhubhashana99)
 
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Coding+is+the+modern-day+equivalent+of+magic&center=true&width=500&height=50"></a>
