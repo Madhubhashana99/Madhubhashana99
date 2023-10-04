@@ -6,6 +6,7 @@
   <img src="https://profile-counter.glitch.me/Madhubhashana99/count.svg" />
 </p>
 
+[![An image of @madhubhashana99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhubhashana99)](https://holopin.io/@madhubhashana99)
 <p align="right">
  <!-- <a href="https://github.com/Madhubhashana99">
     <img src="https://komarev.com/ghpvc/?username=Madhubhashana99&style=flat-square&color=040404" alt="GitHub visitors" />
