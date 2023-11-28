@@ -10,9 +10,6 @@
 </p>
 
 <p align="right">
- <!-- <a href="https://github.com/Madhubhashana99">
-    <img src="https://komarev.com/ghpvc/?username=Madhubhashana99&style=flat-square&color=040404" alt="GitHub visitors" />
-  </a>-->
   
 </p>
 
