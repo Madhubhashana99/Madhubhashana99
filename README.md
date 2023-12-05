@@ -1,6 +1,8 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>“Be true to yourself. Make each day a masterpiece. Help others. Drink deeply from good books. Make friendship a fine art. Build a shelter against a rainy day.”</b> :)</em><br><br>
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<!--![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)-->
+![](https://github.com/Madhubhashana99/Madhubhashana99/header_1.png)
+
 
 
 
