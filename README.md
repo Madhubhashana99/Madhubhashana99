@@ -35,8 +35,10 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,bootstrap,sqlite,py,docker,netlify,git,gitlab,stackoverflow,nginx,jenkins&perline=12" /></a>
-  </p>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,bootstrap,sqlite,py,docker,netlify,git,gitlab,stackoverflow,nginx,jenkins,aspnet,nextjs&perline=12" />
+  </a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
